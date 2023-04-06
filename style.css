@@ -1,0 +1,141 @@
+body{
+    background-image: linear-gradient(#636162, #b1afaf);
+    height:122vh;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+*{
+    margin: 0px; padding:0px; font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.img{
+    width:90%;
+    height:230px;
+   margin-top: 140px;
+   margin-bottom: 30px;
+   
+
+}
+.img1{
+    width: 110%;
+    height: 130%;
+    margin-bottom:20px;
+    align-items: cover;
+    align-content: center;
+}
+
+.main{
+    background-color: white;
+    height: auto;
+    width: 650px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+}
+.left{
+    background-color: #fbb;
+    width:180px;
+    height: 80%;
+    float: left;
+    
+}
+.right{
+    width: 450px;
+    float: left;
+}
+.box-1{
+    position: relative;
+}
+.heading{
+    background-color:#b1afaf;
+    padding: 10px;
+    color: blue;
+    text-align: left;
+    padding-left: 20px;
+    margin-right: -0px;
+}
+.p1{
+    padding: 9px 10px;
+    font-size: 13px;
+}
+.icons1{
+    font-size: 16px !important;
+    padding-right: 10px !important;
+    vertical-align: sub;
+}
+.skill-container{
+width: 90%;
+background-color: #4d4d4d;
+margin: 0px 10px;
+}
+.skill{
+    text-align: right;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
+.html{
+    width: 90%;
+    background-color: white;
+}
+.css{
+    width: 80%;
+    background-color: white;
+}
+.react{
+    width: 90%;
+    background-color: white;
+}
+.js{
+    width: 90%;
+    background-color: white;
+}
+.web{
+    width: 95%;
+    background-color: red;
+}
+.graphic{
+    width: 70%;
+    background-color: red;
+}
+.name-div{
+    padding: 86px 0px 0px 55px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+.name-div h1{
+    margin-bottom: 10px;
+ }
+ .box-2{
+    padding: 0px 50px;
+    margin-top: 30px;
+ }
+ .p2{
+    font-size: 10px;
+    font-weight: 300;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    line-height: 18px;
+    margin-top: 5px;
+ }
+ h2{
+    font-size:16px;
+    margin-bottom: 15px;
+ }
+ .p3{
+    font-size: 13px;
+    word-spacing: 1px;
+    letter-spacing: 0px;
+    margin-top: 10px;
+ }
+ .p3 span{
+    color: #ff9b00; padding-left: 20px; 
+ }
+ 
+
+
+
+
+   
+
+
